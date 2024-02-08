@@ -61,26 +61,27 @@ Les proves que hem fet a Softcatalà indiquen que el millor model en termes de q
 
 # Avaluació
 
+El número al final és el WER
 
-audios/15GdH9-curt.mp3-openai-whisper-small-hf.txt - 124.00
-audios/15GdH9-curt.mp3-MaximilianChen-Casper-hf.txt - 73.33
-audios/15GdH9-curt.mp3-softcatala-whisper-small-ca-hf.txt - 69.52
+* audios/15GdH9-curt.mp3-openai-whisper-small-hf.txt - 124.00
+* audios/15GdH9-curt.mp3-MaximilianChen-Casper-hf.txt - 73.33
+* audios/15GdH9-curt.mp3-softcatala-whisper-small-ca-hf.txt - 69.52
 
-audios/Ona_catalan-balear.mp3-openai-whisper-small-hf.txt - 44.95
-audios/Ona_catalan-balear.mp3-MaximilianChen-Casper-hf.txt - 64.36
-audios/Ona_catalan-balear.mp3-softcatala-whisper-small-ca-hf.txt - 52.39
+* audios/Ona_catalan-balear.mp3-openai-whisper-small-hf.txt - 44.95
+* audios/Ona_catalan-balear.mp3-MaximilianChen-Casper-hf.txt - 64.36
+* audios/Ona_catalan-balear.mp3-softcatala-whisper-small-ca-hf.txt - 52.39
 
-audios/Son_Goku_catalan_valencian_voice.ogg-openai-whisper-small-hf.txt - 158.86
-audios/Son_Goku_catalan_valencian_voice.ogg-MaximilianChen-Casper-hf.txt - 294.94
-audios/Son_Goku_catalan_valencian_voice.ogg-softcatala-whisper-small-ca-hf.txt - 44.94
+* audios/Son_Goku_catalan_valencian_voice.ogg-openai-whisper-small-hf.txt - 158.86
+* audios/Son_Goku_catalan_valencian_voice.ogg-MaximilianChen-Casper-hf.txt - 294.94
+* audios/Son_Goku_catalan_valencian_voice.ogg-softcatala-whisper-small-ca-hf.txt - 44.94
 
-audios/EloiBadiaCat.mp3-openai-whisper-small-hf.txt - 80.09
-audios/EloiBadiaCat.mp3-MaximilianChen-Casper-hf.txt - 68.81
-audios/EloiBadiaCat.mp3-softcatala-whisper-small-ca-hf.txt - 47.65
+* audios/EloiBadiaCat.mp3-openai-whisper-small-hf.txt - 80.09
+* audios/EloiBadiaCat.mp3-MaximilianChen-Casper-hf.txt - 68.81
+* audios/EloiBadiaCat.mp3-softcatala-whisper-small-ca-hf.txt - 47.65
 
-audios/Universal_Declaration_of_Human_Rights_-_cat_-_nv.ogg-openai-whisper-small-hf.txt - 70.31
-audios/Universal_Declaration_of_Human_Rights_-_cat_-_nv.ogg-MaximilianChen-Casper-hf.txt - 46.33
-audios/Universal_Declaration_of_Human_Rights_-_cat_-_nv.ogg-softcatala-whisper-small-ca-hf.txt - 59.75
+* audios/Universal_Declaration_of_Human_Rights_-_cat_-_nv.ogg-openai-whisper-small-hf.txt - 70.31
+* audios/Universal_Declaration_of_Human_Rights_-_cat_-_nv.ogg-MaximilianChen-Casper-hf.txt - 46.33
+* audios/Universal_Declaration_of_Human_Rights_-_cat_-_nv.ogg-softcatala-whisper-small-ca-hf.txt - 59.75
 
 
 
